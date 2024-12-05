@@ -28,9 +28,8 @@ Je suis Laurent Cassar, technicien informatique passionné par les technologies 
 - **Gestion des infrastructures** : VMware Workstation, Pfsense, Active Directory, GLPI.
 - **Langages et environnements** : Notions de Windows PowerShell.
 - **Microsoft Office** : Word, PowerPoint (niveau moyen).
-- **Connaissances en conception de circuits logiques électroniques numériques et algèbre de Boole.
+- **Connaissances en conception de circuits logiques** électroniques numériques en utilisant le **système algèbrique de Boole**.
 - **Langues** : Anglais (niveau basique).
-
 ---
 
 ## Parcours de formation
