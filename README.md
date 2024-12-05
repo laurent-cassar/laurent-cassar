@@ -10,6 +10,7 @@
 - **Email** : [laurent.cassar@laplateforme.io](mailto:laurent.cassar@laplateforme.io)
 - **GitHub** : [https://github.com/laurent-cassar](https://github.com/laurent-cassar)
 - **LinkedIn** : [https://www.linkedin.com/in/laurent-cassar-20b39b161](https://www.linkedin.com/in/laurent-cassar-20b39b161)
+- **Curriculum Vitae** : [https://github.com/laurent-cassar/job1/blob/main/CV.html](https://github.com/laurent-cassar/job1/blob/main/CV.html)
 - **Fansite** : [https://github.com/laurent-cassar/job1/blob/main/fansite.html](https://github.com/laurent-cassar/job1/blob/main/fansite.html)
 ---
 
