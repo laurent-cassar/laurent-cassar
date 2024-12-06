@@ -1,5 +1,3 @@
-https://laurent-cassar.github.io/Curriculum-Vitae/https://laurent-cassar.github.io/Curriculum-Vitae/
-
 ![github-header-image(4)](https://github.com/user-attachments/assets/f77edef3-782b-445b-8add-4e4db417609a)
 
 
