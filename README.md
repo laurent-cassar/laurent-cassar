@@ -11,7 +11,7 @@
 - **GitHub** : [https://github.com/laurent-cassar](https://github.com/laurent-cassar)
 - **LinkedIn** : [https://www.linkedin.com/in/laurent-cassar-20b39b161](https://www.linkedin.com/in/laurent-cassar-20b39b161)
 - **Curriculum Vitae** : [https://github.com/laurent-cassar/job1/blob/main/CV.html](https://github.com/laurent-cassar/job1/blob/main/CV.html)
-- **Fansite** : [https://github.com/laurent-cassar/job1/blob/main/fansite.html](https://github.com/laurent-cassar/job1/blob/main/fansite.html)
+- **Fansite** : [https://github.com/laurent-cassar/Fansite-Charles-Babbage/blob/2c69ee036cea34c374a6828cb6bd0ccf874ae460/index.html](https://github.com/laurent-cassar/Fansite-Charles-Babbage/blob/2c69ee036cea34c374a6828cb6bd0ccf874ae460/index.html)
 ---
 
 ## À propos de moi
