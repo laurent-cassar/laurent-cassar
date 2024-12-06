@@ -11,6 +11,7 @@
 - **Portfolio** : [https://laurent-cassar.github.io/portfolio/](https://laurent-cassar.github.io/portfolio/)
 - **Curriculum Vitae** : [https://laurent-cassar.github.io/Curriculum-Vitae/](https://laurent-cassar.github.io/Curriculum-Vitae/)
 - **Fansite** : [https://laurent-cassar.github.io/Fansite-Charles-Babbage/#accueil](https://laurent-cassar.github.io/Fansite-Charles-Babbage/#accueil)
+- **Tic-Tac-Toe** : [https://github.com/laurent-cassar/Tic-Tac-Toe](https://github.com/laurent-cassar/Tic-Tac-Toe)
 ---
 
 ## À propos de moi
