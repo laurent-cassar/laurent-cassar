@@ -87,7 +87,7 @@ Je suis Laurent Cassar, technicien informatique passionné par les technologies 
 - **Informatique et électronique** : Passionné par la programmation et l'innovation technologique.
 - **Sciences et technologies** : Intérêt pour la physique, la biologie et la biochimie.
 - **Nutrition et endocrinologie** : Curiosité pour les sciences de la santé et leur impact sur notre santé.
-
+- **Loisirs** : Jeux vidéos, Bricolage et fitness.
 ---
 
 ## Conclusion
