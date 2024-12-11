@@ -94,7 +94,12 @@ Je suis Laurent Cassar, technicien informatique passionné par les technologies 
 
 ## Conclusion
 
-Motivé, curieux et passionné par l'informatique, je cherche continuellement à développer mes compétences et à m'adapter aux évolutions rapides du secteur numérique. Je suis à la recherche de nouvelles opportunités pour intervenir dans des projets variés, où je peux mettre à profit mes connaissances techniques tout en continuant à apprendre et à me perfectionner.
+Motivé, curieux et passionné par l'informatique et les nouvelles 
+technologies du numérique, je cherche continuellement à développer mes 
+compétences et à m'adapter aux évolutions rapides du secteur numérique. 
+Je suis à la recherche de nouvelles opportunités pour intervenir dans 
+des projets variés, où je peux mettre à profit mes connaissances 
+techniques tout en continuant à apprendre et à me perfectionner.
 
 ---
 
