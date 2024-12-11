@@ -10,7 +10,7 @@
 - **LinkedIn** : [https://www.linkedin.com/in/laurent-cassar-20b39b161](https://www.linkedin.com/in/laurent-cassar-20b39b161)
 - **Portfolio** : [https://laurent-cassar.github.io/portfolio/](https://laurent-cassar.github.io/portfolio/)
 - **Curriculum Vitae** : [https://laurent-cassar.github.io/Curriculum-Vitae/](https://laurent-cassar.github.io/Curriculum-Vitae/)
-- **Fansite Charles Babbage** : [https://laurent-cassar.github.io/Fansite-Charles-Babbage/](https://laurent-cassar.github.io/Fansite-Charles-Babbage/#accueil)
+- **Fansite Charles Babbage** : [https://laurent-cassar.github.io/Fansite-Charles-Babbage/](https://laurent-cassar.github.io/Fansite-Charles-Babbage/)
 - **Tic-Tac-Toe** : [https://github.com/laurent-cassar/Tic-Tac-Toe](https://github.com/laurent-cassar/Tic-Tac-Toe)
 ---
 
