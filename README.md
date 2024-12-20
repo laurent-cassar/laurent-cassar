@@ -13,7 +13,7 @@
 - **Fansite Charles Babbage** : [https://laurent-cassar.github.io/Fansite-Charles-Babbage/](https://laurent-cassar.github.io/Fansite-Charles-Babbage/)
 - **Tic Tac Toe** : [https://github.com/laurent-cassar/Tic-Tac-Toe](https://github.com/laurent-cassar/Tic-Tac-Toe)
 - **Codage Génétique** : [https://github.com/laurent-cassar/Codage-Genetique](https://laurent-cassar.github.io/Codage-Genetique)
-- **Comunication universelle** : [https://laurent-cassar.github.io/Comunication-universelle](https://laurent-cassar.github.io/Comunication-universelle)
+- **Comunication Universelle** : [https://laurent-cassar.github.io/Comunication-Universelle](https://laurent-cassar.github.io/Comunication-Universelle)
 ---
 
 ## À propos de moi
