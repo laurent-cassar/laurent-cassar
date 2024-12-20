@@ -11,7 +11,9 @@
 - **Portfolio** : [https://laurent-cassar.github.io/portfolio/](https://laurent-cassar.github.io/portfolio/)
 - **Curriculum Vitae** : [https://laurent-cassar.github.io/Curriculum-Vitae/](https://laurent-cassar.github.io/Curriculum-Vitae/)
 - **Fansite Charles Babbage** : [https://laurent-cassar.github.io/Fansite-Charles-Babbage/](https://laurent-cassar.github.io/Fansite-Charles-Babbage/)
-- **Tic-Tac-Toe** : [https://github.com/laurent-cassar/Tic-Tac-Toe](https://github.com/laurent-cassar/Tic-Tac-Toe)
+- **Tic Tac Toe** : [https://github.com/laurent-cassar/Tic-Tac-Toe](https://github.com/laurent-cassar/Tic-Tac-Toe)
+- **Codage Génétique** : [https://github.com/laurent-cassar/Codage-Genetique](https://laurent-cassar.github.io/Codage-Genetique)
+- **Comunication universelle** : [https://laurent-cassar.github.io/Comunication-universelle](https://laurent-cassar.github.io/Comunication-universelle)
 ---
 
 ## À propos de moi
