@@ -18,7 +18,7 @@
 
 ## À propos de moi
 
-Je suis Laurent Cassar, technicien informatique passionné par les technologies et en constante évolution. Fort d'une solide formation en systèmes et réseaux, je suis spécialisé dans l'administration des infrastructures, le dépannage informatique et le support utilisateur. Curieux et toujours à la recherche de nouvelles opportunités pour perfectionner mes compétences, je suis prêt à relever de nouveaux défis dans le secteur informatique.
+Je suis Laurent Cassar, technicien informatique. Motivé, curieux et fort d'une solide formation en systèmes et réseaux, je suis également passionné par l'informatique et les nouvelles technologies du numérique dont je cherche continuellement à développer mes compétences ainsi qu'à en acquérir de nouvelles dans le secteur du développement en système immersif afin de me diversifier et de m'ouvrir à de nouvelles opportunités me permettant de m'investir dans des projets variés où je pourrais mettre à profit mes connaissances techniques déjà acquises tout en continuant à apprendre et à me perfectionner davantage.
 
 ---
 
