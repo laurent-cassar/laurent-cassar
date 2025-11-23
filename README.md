@@ -16,7 +16,7 @@
 - **Comunication Universelle** : [https://laurent-cassar.github.io/Comunication-Universelle](https://laurent-cassar.github.io/Comunication-Universelle)
 - **Packet Runner - Game Concept Document** : [https://laurent-cassar.github.io/Pixar](https://laurent-cassar.github.io/Pixar)
 - **Packet Runner - Maquettes Gameplay** : [https://github.com/laurent-cassar/Pixar/blob/main/Packet%20Runner%20-%20Mockups%20Gameplay.pdf]([https://laurent-cassar.github.io/Comunication-Universelle](https://github.com/laurent-cassar/Pixar/blob/main/Packet%20Runner%20-%20Mockups%20Gameplay.pdf))
-- **Packet Runner - Boucle de Gameplay** : [https://github.com/laurent-cassar/Pixar/blob/main/Pr%C3%A9sentation%20-%20Boucle%20de%20Gameplay.svg]([https://laurent-cassar.github.io/Comunication-Universelle](https://github.com/laurent-cassar/Pixar/blob/main/Pr%C3%A9sentation%20-%20Boucle%20de%20Gameplay.svg)
+- **Packet Runner - Boucle de Gameplay** : [https://github.com/laurent-cassar/Pixar/blob/main/Pr%C3%A9sentation%20-%20Boucle%20de%20Gameplay.svg](https://github.com/laurent-cassar/Pixar/blob/main/Pr%C3%A9sentation%20-%20Boucle%20de%20Gameplay.svg)
 
 ---
 
